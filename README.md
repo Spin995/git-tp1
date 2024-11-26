@@ -11,9 +11,3 @@ Les caractéristiques du langage Java :
 ### Documentation
 
 lien vers la <span style="color: red;">documentation officielle</span> : [Documentation](https://docs.oracle.com/en/java/)  
-
-<style>
-    a {
-        text-decoration: none;
-    }
-</style>
