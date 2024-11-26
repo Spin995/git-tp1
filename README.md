@@ -1,6 +1,6 @@
 # Le langage Java
 
-<h2 style="border-bottom: none;">Introduction</h2>
+### Introduction
 
 Les caractéristiques du langage Java :
 
@@ -8,6 +8,7 @@ Les caractéristiques du langage Java :
 * il est portable
 * il est multithreadé
 
-<h2 style="border-bottom: none;">Documentation</h2>
+### Documentation
 
 lien vers la <span style="color: red;"> documentation officielle</span> : [Documentation](https://docs.oracle.com/en/java/)
+
